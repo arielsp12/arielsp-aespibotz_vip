@@ -1,112 +1,167 @@
 <p align="center">
-<img src="https://telegra.ph/file/abff7903bd674a8f9d307.jpg" alt="FachriBotzv3" width="200"/>
-
+    <img src="https://telegra.ph/file/05dbd461f1d3d1447f350.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<p align="center"> <a href="https://Lexxy24.github.io"> <img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Fachri+botz;Recode+By+Fachri;Give+Star+And+Forks+This+Repo+:D;Follow+My+Github" alt="Fachri" /> </a> </p>
-<p align="center">
-<a href="#"><img title="Fachri-Botz" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-</p> 
+<h1 align="center">Ariel SP</h1>
 
-​ 
-  
-`## Information  `</p>  
- ​</p> `bahasa Indonesia  `
- ​</p> FachriBotz adalah bot yang menggunakan script dari Haori dan di recode oleh Fachri 
-</p>  Jika kamu menemukan semacam bug/error, harap untuk dimaklumi sementara.  
+<a href="https://github.com/Kannachann/kanna-wabot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Kannachann/kanna-wabot?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kannachann/kanna-wabot/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/Kannachann/kanna-wabot?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/Kannachann/kanna-wabot/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Kannachann/kanna-wabot?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/Kannachann/kanna-wabot/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/Kannachann/kanna-wabot?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/Kannachann/kanna-wabot/issues"><img title="Issues" src="https://img.shields.io/github/issues/Kannachann/kanna-wabot?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/Kannachann/kanna-wabot/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/Kannachann/kanna-wabot?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/Kannachann/kanna-wabot/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/Kannachann/kanna-wabot?label=PullRequest&color=success&style=flat-square"></a>
+<a href="https://github.com/Kannachann/kanna-wabot/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/Kannachann/kanna-wabot?label=PullRequest&color=red&style=flat-square"></a>
 
+## FOR DEPLOY HEROKU USER
 
-</p> 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad01/Wabot-Tsb01)
 
- `Language English ` </p> 
-Fachri is a bot that uses a script from Haori and is recoded by Fachri 
-</p>  ​If you find some kind of bug/error, please forgive me for a while  
-   
-   
-   </p> 
-   
- 
-`Bugs and Tester `
- Jika kamu menemukan bug jangan lupa buka Issues 
- ​Info Lebih Lanjut, Chat 
- 
- </p> 
- 
- ​[![​BOT WHATSAPP​](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/628159917553)  
- ​[![​ONWER​](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285713041886)  
- ​[![​GROUP OFFICIAL​](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GimZmhA2XTQFfPXk4XMrv6)  
+### Instal Buildpack
+* heroku/nodejs
+* https://github.com/clhuang/heroku-buildpack-webp-binaries
+* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
+* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 
- 
- ​FOR TERMUX/UBUNTU/SSH USER 
-  
- ​```bash 
- ​apt update ​&&​ apt upgrade 
- ​apt install git -y 
- ​apt install nodejs -y 
- ​apt install ffmpeg -y 
- ​apt install imagemagick -y 
- ​git clone https://github.com/Ipulpachri/fachribotzv3
- ​cd​ fachribotzv3
- ​npm install 
- ​npm update 
- ​``` 
+## FOR DEPLOY RAILWAY USER
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad01%2FWabot-Tsb01)
 
-Heroku Buildpack
-```bash 
-> heroku/nodejs 
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest 
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+## FOR DEPLOY REPLIT USER
+
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kannachann/kanna-wabot/)
+```cmd
+Open Console
+------------
+> npm i
+> npm i qrcode
+> install-pkg webp
+> install-pkg ffmpeg
+-------------
+Click Run
 ```
- 
- ​Server harus memiliki spesifikasi seperti ini 
-  
- ​GET 
-  
- ​```http 
- ​GET / 
- ​Accept: application/json 
- ​``` 
-  
- ​`--big-qr` 
-  
- ​Jika qr unicode kecil tidak mendukung 
-  
-  ​`--restrict` 
-  
- ​Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda ​**diblokir**​ jika digunakan terlalu sering) 
-  
- ​**Administrasi Grup** ​`add, kick, promote, demote` 
-  
- ​`--img` 
-  
- ​Aktifkan pemeriksa gambar melalui terminal 
-  
- ​ ​`--autoread` 
-  
- ​Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca 
-  
-  ​`--nyimak` 
-  
- ​Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database 
-  
- ​`--test` 
-  
- ​**Development**​ Testing Mode 
-  
- ​`--trace` 
-  
- ​```js 
- ​conn​.​logger​.​level​ ​=​ ​'​trace​' 
- ​``` 
-  
- ​ ​`--debug` 
-  
- ​```js 
- ​conn​.​logger​.​level​ ​=​ ​'​debug​' 
- ​``` 
-  
+## Whatsapp
 
-  
- ​ [![​Zivfurr](https://github.com/Colindonesia.png?size=100)](https://github.com/Colindonesia) </p>  `Creator`  </p>    [![​Yanzz](https://github.com/Yanzz-Bot.png?size=100)](https://github.com/Yanzz-Bot)</p>  `Partner` </p>  [![​Fachri](https://github.com/Ipulpachri.png?size=100)](https://github.com/Ipulpachri) </p>  `Recode Ulang`  </p>
+[![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IqDLCmrbKAM1W9BEDdPZ9Q)
+[![Nomor Ariel SP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282118022072)
+
+## UNTUK PENGGUNA WINDOWS/VPS/RDP
+
+* Unduh & Instal Git [`Klik Disini`](https://git-scm.com/downloads)
+* Unduh & Instal NodeJS [`Klik Disini`](https://nodejs.org/en/download)
+* Unduh & Instal FFmpeg [`Klik Disini`](https://ffmpeg.org/download.html) (**Jangan Lupa Tambahkan FFmpeg ke variabel lingkungan PATH**)
+* Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
+
+```bash
+git clone https://github.com/arielsp12/aespibot-vip
+cd kanna-wabot
+npm i
+npm update
+node .
+```
+
+---------
+
+## UNTUK PENGGUNA TERMUX
+```bash
+termux-setup-storage
+pkg install git
+pkg install nodejs
+pkg install ffmpeg
+pkg install imagemagick
+pkg install libwebp
+git clone https://github.com/arielsp12/aespibot-vip
+npm install
+npm start
+```
+
+---------
+
+## Arguments `node . [--options] [<session name>]`
+
+#### Contoh: `node . --self --restrict --autoread`
+
+### `--self`
+
+Aktifkan mode self (Mengabaikan yang lain)
+
+### `--prefix <prefixes>`
+
+* `prefixes` dipisahkan oleh masing-masing karakter
+Setel awalan
+
+### `--server`
+
+Digunakan untuk [heroku](https://heroku.com/) atau pindai melalui situs web
+
+### `--db <json-server-url>`
+
+Gunakan db eksternal alih-alih db lokal, 
+Contoh Server `https://json-server.nurutomo.repl.co/`
+Code: `https://repl.it/@Nurutomo/json-server`
+
+`node . --db 'https://json-server.nurutomo.repl.co/'`
+
+Server harus memiliki spesifikasi seperti ini
+
+#### GET
+
+```http
+GET /
+Accept: application/json
+```
+
+#### POST
+
+```http
+POST /
+Content-Type: application/json
+
+{
+ data: {}
+}
+```
+
+### `--big-qr`
+
+Jika qr unicode kecil tidak mendukung
+
+### `--restrict`
+
+Mengaktifkan plugin terbatas (yang dapat menyebabkan nomor Anda **diblokir** jika digunakan terlalu sering)
+
+* Administrasi Grup `add, kick, promote, demote`
+
+### `--img`
+
+Aktifkan pemeriksa gambar melalui terminal
+
+### `--autoread`
+
+Jika diaktifkan, semua pesan masuk akan ditandai sebagai telah dibaca
+
+### `--nyimak`
+
+Tidak ada bot, cukup cetak pesan yang diterima dan tambahkan pengguna ke database
+
+### `--test`
+
+**Development** Testing Mode
+
+### `--trace`
+
+```js
+conn.logger.level = 'trace'
+```
+
+### `--debug`
+
+```js
+conn.logger.level = 'debug'
+```
+
+---------
+
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kannachann](https://github.com/Kannachann.png?size=100)](https://github.com/Kannachann)
+----|----|----
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kannachann](https://github.com/Kannachann)
+ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2
