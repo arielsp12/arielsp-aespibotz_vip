@@ -42,7 +42,8 @@ Click Run
 ## Whatsapp
 
 [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IqDLCmrbKAM1W9BEDdPZ9Q)
-[![Nomor Ariel SP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282118022072)
+[![Nomor Ariel SP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281214228522)
+[![Nomor Ariel](https://img.shields.io/badge/Nomor%20Ariel SP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282118022072)
 
 ## UNTUK PENGGUNA WINDOWS/VPS/RDP
 
@@ -52,7 +53,7 @@ Click Run
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/arielsp12/aespibot-vip
+git clone https://github.com/arielsp12/arielsp-aespibotz_vip
 cd kanna-wabot
 npm i
 npm update
@@ -69,7 +70,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install libwebp
-git clone https://github.com/arielsp12/aespibot-vip
+git clone https://github.com/arielsp12/arielsp-aespibotz_vip
 npm install
 npm start
 ```
