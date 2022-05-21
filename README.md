@@ -54,7 +54,7 @@ Click Run
 
 ```bash
 git clone https://github.com/arielsp12/arielsp-aespibotz_vip
-cd kanna-wabot
+cd arielsp-aespibotz_vip
 npm i
 npm update
 node .
@@ -71,6 +71,7 @@ pkg install ffmpeg
 pkg install imagemagick
 pkg install libwebp
 git clone https://github.com/arielsp12/arielsp-aespibotz_vip
+cd arielsp-aespibotz_vip
 npm install
 npm start
 ```
